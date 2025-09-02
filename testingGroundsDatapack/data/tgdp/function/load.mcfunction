@@ -1,0 +1,1 @@
+say > Testing Grounds datapack successfully loaded 
