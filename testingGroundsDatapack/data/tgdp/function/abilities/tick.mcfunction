@@ -1,0 +1,1 @@
+function tgdp:abilities/triple_jump/tick

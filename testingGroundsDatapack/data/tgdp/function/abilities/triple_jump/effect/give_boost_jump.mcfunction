@@ -1,0 +1,1 @@
+effect give @a[tag=tripleJumpReady] minecraft:jump_boost 10 2 false

@@ -1,0 +1,2 @@
+# tripleJump_countSprintDistance and tripleJump_countWalkDistance climb up to 59 with jump held. Giving slight room for movement
+execute at @a[scores={tripleJump_countJumps=2,tripleJump_isEnabled=1,tripleJump_countSprintDistance=..75,tripleJump_countWalkDistance=..75}] run tag @p[scores={tripleJump_countJumps=2}] add tripleJumpReady

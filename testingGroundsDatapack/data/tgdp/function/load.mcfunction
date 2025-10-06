@@ -1,1 +1,2 @@
-say > Testing Grounds datapack successfully loaded 
+function tgdp:items/load
+function tgdp:abilities/load
