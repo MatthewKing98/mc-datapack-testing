@@ -1,0 +1,2 @@
+execute at @a[tag=!hunterVision_validFocusBuildState,scores={hunterVision_isEnabled=1}] run tag @p[tag=!hunterVision_validFocusBuildState,scores={hunterVision_isEnabled=1}] remove hunterVision_halfChargeState
+execute at @a[tag=hunterVision_halfChargeStateExtended,scores={hunterVision_isEnabled=1}] run tag @p[tag=hunterVision_halfChargeStateExtended,scores={hunterVision_isEnabled=1}] remove hunterVision_halfChargeState

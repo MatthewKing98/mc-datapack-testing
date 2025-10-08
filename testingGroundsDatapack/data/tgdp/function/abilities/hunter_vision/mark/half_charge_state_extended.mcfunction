@@ -1,0 +1,2 @@
+# apply a tag for when the player has half charged their hunter vision
+execute at @a[tag=hunterVision_halfChargeState,scores={hunterVision_timeInHalfCharge=1..}] run tag @p[tag=hunterVision_halfChargeState,scores={hunterVision_timeInHalfCharge=1..}] add hunterVision_halfChargeStateExtended

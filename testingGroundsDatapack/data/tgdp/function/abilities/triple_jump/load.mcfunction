@@ -1,4 +1,3 @@
-
 function tgdp:abilities/triple_jump/effect/load
 function tgdp:abilities/triple_jump/mark/load
 function tgdp:abilities/triple_jump/unmark/load

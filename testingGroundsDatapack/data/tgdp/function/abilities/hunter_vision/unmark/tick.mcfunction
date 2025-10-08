@@ -1,0 +1,5 @@
+function tgdp:abilities/hunter_vision/unmark/not_valid_focus_build_state
+function tgdp:abilities/hunter_vision/unmark/not_half_charge_state
+function tgdp:abilities/hunter_vision/unmark/not_full_charge_state
+function tgdp:abilities/hunter_vision/unmark/not_half_charge_state_extended
+function tgdp:abilities/hunter_vision/unmark/not_full_charge_state_extended

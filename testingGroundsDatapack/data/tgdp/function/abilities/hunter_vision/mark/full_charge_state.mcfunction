@@ -1,0 +1,2 @@
+# apply a tag for when the player has fully charged their hunter vision
+execute at @a[scores={hunterVision_sneakTime=100..,hunterVision_isEnabled=1}] run tag @p[scores={hunterVision_sneakTime=100..,hunterVision_isEnabled=1}] add hunterVision_fullChargeState
